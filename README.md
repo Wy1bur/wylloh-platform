@@ -1,3 +1,7 @@
+# ⚠️ REPOSITORY MOVED
+This repository is no longer maintained. Please visit the active version at:
+**https://github.com/wylloh/wylloh-platform**
+
 # Wylloh Protocol
 
 An open protocol for movie tokenization and distribution, enabling cross-platform interoperability and direct relationships between creators and audiences.
